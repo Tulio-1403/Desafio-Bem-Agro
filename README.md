@@ -1,6 +1,6 @@
 # Desafio Bem Agro
 
-Este trabalho visa a segmentação de imagens RGB para identificar regiões com vegetação. No repositório Git, você encontrará os códigos para treinamento e predição do modelo, utilizando a arquitetura U-Net, uma rede neural convolucional eficaz para tarefas de segmentação de imagens. Os dados utilizados para o treinamento estão disponíveis no arquivo zip.
+Este trabalho visa a segmentação de imagens RGB para identificar regiões com vegetação. No repositório Git, você encontrará os códigos para treinamento e predição do modelo, utilizando a arquitetura U-Net, uma rede neural convolucional eficaz para tarefas de segmentação de imagens. Os dados utilizados para o treinamento estão disponíveis no arquivo rar.
 
 Os principais componentes deste desafio incluem:
 
